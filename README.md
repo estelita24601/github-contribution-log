@@ -1,9 +1,9 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Parent Property
 
 **Contribution Number:** [1]  
 **Student:** Estelita Chen
 **Issue:** [Parent property · Issue #166 · zarr-developers/zarr-python · GitHub](https://github.com/zarr-developers/zarr-python/issues/166)
-**Status:** [Phase I] [In Progress]
+**Status:** [Phase I] [Complete]
 
 ---
 
@@ -17,15 +17,15 @@ Python skill match. I enjoy backend/data structures and didn't want to work on f
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+Python n-dimensional array and they want to add a parent feature so it can be more like a doubly linked list.
 
 ### Expected Behavior
 
-[What should happen?]
+Either a class attribute that returns the parent array or someone mentioned bracket notation.
 
 ### Current Behavior
 
-[What actually happens?]
+When you go down in the array you can't go back up unless you store a previous reference?
 
 ### Affected Components
 
