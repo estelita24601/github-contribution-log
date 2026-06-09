@@ -2,14 +2,14 @@
 
 **Contribution Number:** [1]  
 **Student:** Estelita Chen
-**Issue:** [GitHub issue link]  
+**Issue:** [Parent property · Issue #166 · zarr-developers/zarr-python · GitHub](https://github.com/zarr-developers/zarr-python/issues/166)
 **Status:** [Phase I] [In Progress]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+Python skill match. I enjoy backend/data structures and didn't want to work on finicky front end stuff. I find the topic interesting and think this would be a useful feature. 
 
 ---
 
